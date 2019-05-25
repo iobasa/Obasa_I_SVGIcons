@@ -1,2 +1,2 @@
-# Obasa_I_SVGIcons
+# Obasa_I_SVG
 Using SVG Artwork and JavaScript Events
